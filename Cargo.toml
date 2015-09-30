@@ -1,0 +1,7 @@
+[package]
+name = "segfault"
+version = "0.1.0"
+authors = ["Kyle Lacy <kylewlacy@me.com>"]
+
+[dependencies.my_crate]
+path = "my_crate"
